@@ -1,11 +1,14 @@
 **🚀 Machine Learning Implementation Portfolio**
+
 Algorithmic Modeling & Predictive Analytics
 This repository showcases a hands-on implementation of core Machine Learning paradigms, specifically focusing on Unsupervised Learning and Collaborative Filtering Algorithms.
 
-📊 Project: Unsupervised Learning (Customer Segmentation)
+**📊 Project: Unsupervised Learning (Customer Segmentation)**
+
 Objective: To implement a clustering-based ML model to identify hidden patterns and group users based on multi-dimensional feature sets.
 
-🛠️ ML Workflow
+**🛠️ ML Workflow**
+
 Feature Engineering: Implemented StandardScaler for feature normalization to ensure equal weightage during distance calculations.
 
 Core Algorithm: K-Means Clustering.
