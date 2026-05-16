@@ -1,4 +1,4 @@
-🚀 Machine Learning Implementation Portfolio
+**🚀 Machine Learning Implementation Portfolio**
 Algorithmic Modeling & Predictive Analytics
 This repository showcases a hands-on implementation of core Machine Learning paradigms, specifically focusing on Unsupervised Learning and Collaborative Filtering Algorithms.
 
